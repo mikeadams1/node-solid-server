@@ -31,7 +31,7 @@ Section below.
 To install, first install [Node](https://nodejs.org/en/) and then run the following
 
 ```bash
-$ npm install -g solid-server
+$ Sudo npm install -g solid-server
 ```
 
 ### Run a single-user server (beginner)
